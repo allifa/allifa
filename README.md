@@ -19,8 +19,3 @@
 - 📧 Email: [allifazaman@gmail.com]
 - 💼 LinkedIn: [Allifa Zaman](linkedin.com/in/allifazaman/)
 
----
-
-⭐️ From [Your GitHub Username](https://github.com/allifa)
-
-
