@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**allifa/allifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I’m currently pursuing my B.Tech in Electronics and Communications.
+- 🌱 I’m a Data Science amature!
+- 💼 I’m looking for opportunities in Data related fields.
+- 🛠️ I’m currently learning Machine Learning.
+- 🎯 My goal is to make a significant impact through data-driven solutions.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- **Languages**: Python, SQL, HTML, CSS, JavaScript
+- **Tools & Frameworks**: Google Colab, Jupyter Notebook, Git, Bash, PostgreSQL
+- **Data Science**: Pandas, NumPy, SQL, Matplotlib, Seaborn, Plotly, Scikit-learn, Excel
+  
+## Fun Facts
+- 📚 I'm passionate about the world of AI.
+- 🏃 Chess Enthusiast!.
+## How to Reach Me
+- 📧 Email: [allifazaman@gmail.com]
+- 💼 LinkedIn: [Allifa Zaman](linkedin.com/in/allifazaman/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐️ From [Your GitHub Username](https://github.com/allifa)
+
+
